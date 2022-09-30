@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.todo-layout {
+  max-width: 1200px;
+  min-width: 800px;
+  margin: 0 auto;
+}
